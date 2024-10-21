@@ -19,3 +19,6 @@ class Rectangulo extends Figura {
         return 2 * (base + altura);
     }
 }
+
+
+//11

@@ -23,3 +23,7 @@ class Triangulo extends Figura {
         return lado1 + lado2 + lado3;
     }
 }
+
+
+
+//11
